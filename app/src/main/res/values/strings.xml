@@ -1,0 +1,64 @@
+<resources>
+    <!-- Translatable -->
+    <string name="app_name">No Mic</string>
+    <string name="mute">Mute</string>>
+    <string name="stopped">Stopped</string>
+    <string name="tap_to_stop_listening">No Mic is listening. Tap to stop.</string>
+    <string name="streaming_audio_video_notifications_name">Streaming audio/video notifications</string>
+    <string name="streaming_audio_video_notifications_description">This notifications shows up only when you are streaming your audio data</string>
+    <string name="service_state_stopping">Stopping</string>
+    <string name="service_state_stopped">Stopped</string>
+    <string name="service_state_starting">Starting…</string>
+    <string name="service_state_started">Started. Please connect by Wi-Fi</string>
+    <string name="service_state_connected">Connected</string>
+    <string name="udp_socket_error">Cannot open UDP socket</string>
+
+
+    <!-- Notification channel Id -->
+    <string name="notificationStreamChannelId" translatable="false">NoMicStreamServiceNotification</string>
+
+    <!-- Intent's extras keys -->
+    <string name="extrasAudioRecorderSettings" translatable="false">AudioRecorderSettings</string>
+    <string name="extrasTCPPort" translatable="false">TCPPort</string>
+    <string name="extrasTCPIP" translatable="false">TCPIP</string>
+    <string name="extrasStreamingServiceState" translatable="false">StreamingServiceState</string>
+
+    <!-- Intent's actions keys -->
+    <string name="actionsStopMicService" translatable="false">StopMicrophoneService</string>
+    <string name="actionsSetSoundVolumeMicService" translatable="false">SetSoundVolumeMicrophoneService</string>
+
+    <!-- Intent's filters keys -->
+    <string name="filtersStreamingSvcToMainActivity" translatable="false">NoMicStreamingServiceToMainActivity</string>
+
+    <!-- Preferences keys -->
+    <string name="prefKeyControlPort" translatable="false">controlPort</string>
+    <string name="prefKeyAudioSource" translatable="false">audioSource</string>
+    <string name="prefKeySampleRate" translatable="false">sampleRate</string>
+    <string name="prefKeyAudioFormatChannel" translatable="false">audioFormatChannel</string>
+    <string name="prefKeyAudioFormatEncoding" translatable="false">audioFormatEncoding</string>
+    <string name="prefKeySoundVolumeProgress" translatable="false">SoundVolumeProgress</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="audio_header">Audio control</string>
+    <string name="transport_header">Transport options</string>
+
+    <!-- Audio Preferences -->
+    <string name="source_title">Audio source</string>
+    <!-- Option entries -->
+    <string name="source_default_entry">Default</string>
+    <string name="source_microphone_entry">Microphone</string>
+    <string name="source_camcorder_entry">Camcorder</string>
+    <!-- Option values -->
+    <string name="source_default_value" translatable="false">default</string>
+    <string name="source_microphone_value" translatable="false">microphone</string>
+    <string name="source_camcorder_value" translatable="false">camcorder</string>
+
+    <string name="sample_rate_title">Sample rate</string>
+    <string name="channel_title">Channel count</string>
+    <string name="encoding_title">Encoding</string>
+
+    <!-- Sync Preferences -->
+    <string name="transport_title">Transport</string>
+    <string name="port_title">Control port</string>
+</resources>

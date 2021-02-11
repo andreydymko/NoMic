@@ -1,0 +1,140 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 19 min SDK version: x86_64",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\build-tools\\26.0.2\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\build-tools\\29.0.2\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\build-tools\\30.0.2\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\emulator\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\extras\\intel\\Hardware_Accelerated_Execution_Manager\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\ndk\\21.0.6113669\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\ndk\\21.3.6528147\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\patcher\\v4\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\platform-tools\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\platforms\\android-17\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\platforms\\android-18\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\platforms\\android-24\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\platforms\\android-29\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\sources\\android-29\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\system-images\\android-25\\google_apis_playstore\\x86\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Programs64\\Android\\SDK\\tools\\package.xml",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Programs64\\Android\\SDK\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\Andrey\\AndroidStudioProjects\\NoMic\\app\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  }
+]

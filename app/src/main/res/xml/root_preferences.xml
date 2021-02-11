@@ -1,0 +1,42 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <PreferenceCategory app:title="@string/transport_header"
+        app:iconSpaceReserved="false">
+
+        <EditTextPreference
+            android:inputType="numberDecimal"
+            app:defaultValue="8126"
+            app:iconSpaceReserved="false"
+            app:key="@string/prefKeyControlPort"
+            app:title="@string/port_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:iconSpaceReserved="false"
+        app:title="@string/audio_header">
+
+        <ListPreference
+            app:iconSpaceReserved="false"
+            app:defaultValue="@string/source_default_value"
+            app:entries="@array/audio_source_entries"
+            app:entryValues="@array/audio_source_values"
+            app:key="@string/prefKeyAudioSource"
+            app:title="@string/source_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:iconSpaceReserved="false"
+            app:defaultValue="48000"
+            app:entries="@array/sample_rate_entries"
+            app:entryValues="@array/sample_rate_values"
+            app:key="@string/prefKeySampleRate"
+            app:title="@string/sample_rate_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

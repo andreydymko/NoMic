@@ -1,0 +1,31 @@
+<resources>
+    <string-array name="audio_source_entries">
+        <item>@string/source_default_entry</item>
+        <item>@string/source_microphone_entry</item>
+        <item>@string/source_camcorder_entry</item>
+    </string-array>
+
+    <string-array name="audio_source_values">
+        <item>@string/source_default_value</item>
+        <item>@string/source_microphone_value</item>
+        <item>@string/source_camcorder_value</item>
+    </string-array>
+
+    <string-array name="sample_rate_entries">
+        <item>8000</item>
+        <item>16000</item>
+        <item>44100</item>
+        <item>48000</item>
+        <item>96000</item>
+        <item>192000</item>
+    </string-array>
+
+    <string-array name="sample_rate_values">
+        <item>8000</item>
+        <item>16000</item>
+        <item>44100</item>
+        <item>48000</item>
+        <item>96000</item>
+        <item>192000</item>
+    </string-array>
+</resources>

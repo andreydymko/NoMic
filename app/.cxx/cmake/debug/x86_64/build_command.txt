@@ -1,0 +1,21 @@
+Executable : C:\Programs64\Android\SDK\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\Andrey\AndroidStudioProjects\NoMic\app
+-DCMAKE_FIND_ROOT_PATH=C:\Users\Andrey\AndroidStudioProjects\NoMic\app\.cxx\cmake\debug\prefab\x86_64\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=C:\Programs64\Android\SDK\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=C:\Programs64\Android\SDK\ndk\21.0.6113669
+-DANDROID_PLATFORM=android-19
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_ANDROID_NDK=C:\Programs64\Android\SDK\ndk\21.0.6113669
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\Andrey\AndroidStudioProjects\NoMic\app\build\intermediates\cmake\debug\obj\x86_64
+-DCMAKE_MAKE_PROGRAM=C:\Programs64\Android\SDK\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=19
+-BC:\Users\Andrey\AndroidStudioProjects\NoMic\app\.cxx\cmake\debug\x86_64
+-GNinja
+jvmArgs : 
+
+Build command args:

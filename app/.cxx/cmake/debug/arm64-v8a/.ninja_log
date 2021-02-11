@@ -1,0 +1,15 @@
+# ninja log v5
+1	451	619345178	CMakeFiles/soundVolumeIncreaser.dir/src/main/cpp/soundVolumeIncreaser.cpp.o	b74986f284afe97c
+452	507	619345178	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libsoundVolumeIncreaser.so	821e2c831f2e1e1e
+2	289	619346142	CMakeFiles/soundVolumeIncreaser.dir/src/main/cpp/soundVolumeIncreaser.cpp.o	b74986f284afe97c
+290	331	619346142	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libsoundVolumeIncreaser.so	821e2c831f2e1e1e
+2	279	619346769	CMakeFiles/soundVolumeIncreaser.dir/src/main/cpp/soundVolumeIncreaser.cpp.o	b74986f284afe97c
+279	317	619346769	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libsoundVolumeIncreaser.so	821e2c831f2e1e1e
+1	276	619351887	CMakeFiles/soundVolumeIncreaser.dir/src/main/cpp/soundVolumeIncreaser.cpp.o	b74986f284afe97c
+276	315	619351887	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libsoundVolumeIncreaser.so	821e2c831f2e1e1e
+2	275	619352905	CMakeFiles/soundVolumeIncreaser.dir/src/main/cpp/soundVolumeIncreaser.cpp.o	b74986f284afe97c
+275	314	619352905	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libsoundVolumeIncreaser.so	821e2c831f2e1e1e
+5	451	619467509	CMakeFiles/soundVolumeIncreaser.dir/src/main/cpp/soundVolumeIncreaser.cpp.o	b74986f284afe97c
+451	516	619467510	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libsoundVolumeIncreaser.so	821e2c831f2e1e1e
+2	352	619735424	CMakeFiles/soundVolumeIncreaser.dir/src/main/cpp/soundVolumeIncreaser.cpp.o	b74986f284afe97c
+353	433	619735424	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libsoundVolumeIncreaser.so	821e2c831f2e1e1e
